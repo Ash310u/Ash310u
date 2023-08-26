@@ -1,5 +1,5 @@
 <pre>
-  # Hey there :wave:
+  ## Hey there :wave:
 
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
@@ -9,7 +9,7 @@
   </p>
 </pre>
 <pre>
-  # Get in touch :coffee:
+  ## Get in touch :coffee:
   
   <a href="https://linktree-ashu.netlify.app">Links</a>
 
