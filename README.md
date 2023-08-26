@@ -14,6 +14,6 @@
 
 <pre>
   
-  <a href="https://linktree-ashu.netlify.app">Links</a>
+  <a href="https://linktree-ashu.netlify.app">Magic</a>
 
 </pre>
