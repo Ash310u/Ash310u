@@ -5,11 +5,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ash310u/count.svg" />
 </p>
 
-## Get in touch :coffee:
-
-  - https://linktree-ashu.netlify.app
+<a href="https://linktree-ashu.netlify.app">Get in touch :coffee:</a>
 
 </pre>
