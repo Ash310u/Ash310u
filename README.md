@@ -1,5 +1,15 @@
-[![Resurrecting an edit from the dead](https://cdn.glitch.com/d95744a7-5475-40ca-ba73-eaba330fe4d8%2Fedit-from-death.gif?v=1604484073242)](https://twitter.com/Photoshop/status/1320757422458363904)
+<pre>
+# Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
-https://linktree-ashu.netlify.app
+## Get in touch :coffee:
+
+  - https://linktree-ashu.netlify.app
+
+</pre>
