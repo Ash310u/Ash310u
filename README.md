@@ -14,6 +14,6 @@ Visitor count<br>
 
 <pre>
   
-  <a href="https://linktree-ashu.netlify.app">Magic</a>
+  <a href="https://linktree-ashu.netlify.app" target="_blank">Magic</a>
 
 </pre>
