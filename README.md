@@ -7,7 +7,6 @@
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/Ash310u/count.svg" />
 </p>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -28,7 +27,6 @@ Visitor count<br>
 </tr>
 </table>
 <!--- stats (end) -->
-  
 </pre>
 
 ## Get in touch :coffee:
