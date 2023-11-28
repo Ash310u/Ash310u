@@ -10,6 +10,7 @@ Visitor count<br>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<h2 align="center" style="display: inline-block">Consistantly Learning Computer Programming and observing Geopolitics</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
