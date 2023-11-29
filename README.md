@@ -10,9 +10,9 @@ Visitor count<br>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h2 align="center" style="display: inline-block">Consistantly Learning Computer Programming</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
+<h2 align="center" style="display: inline-block">Consistantly Learning Computer Programming</h2>
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
