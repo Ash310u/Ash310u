@@ -8,9 +8,7 @@ Visitor count<br>
 </p>
 <div align="center">
 </div>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
