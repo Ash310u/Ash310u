@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-## Hey there :wave:
-=======
 <!-- ## Hey there :wave:
->>>>>>> 3c15ef5 (update:)
 <pre>
 <p align="center"> 
 Visitor count<br>
@@ -23,7 +19,6 @@ Visitor count<br>
 </td>
 </tr>
 </table>
-<!--- stats (end) -->
 </pre>
 
 ## Get in touch :coffee:
@@ -32,8 +27,5 @@ Visitor count<br>
   
   <a href="https://linktree-ashu.netlify.app" target="_blank">Magic</a>
 
-<<<<<<< HEAD
 </pre>
-=======
 </pre> -->
->>>>>>> 3c15ef5 (update:)
