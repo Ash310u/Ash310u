@@ -1,4 +1,4 @@
-<!-- ## Hey there :wave:
+## Hey there :wave:
 <pre>
 <p align="center"> 
 Visitor count<br>
@@ -28,4 +28,4 @@ Visitor count<br>
   <a href="https://linktree-ashu.netlify.app" target="_blank">Magic</a>
 
 </pre>
-</pre> -->
+</pre>
