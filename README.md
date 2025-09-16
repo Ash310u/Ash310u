@@ -1,10 +1,4 @@
 ## Hey there :wave:
-<pre>
-<p align="center"> 
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/Ash310u/count.svg" />
-</p>
-</pre>
 
 # Git Stats 📊
   
