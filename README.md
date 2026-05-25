@@ -10,7 +10,7 @@
      <!-- </tr> -->
   </table>
         <img 
-         src="https://api-github-readme-stats.vercel.app/api/stats?username=ash310u&theme=dark" alt="GitHub Stats"/>
+         src="https://api-github-readme-stats.vercel.app/api/stats?username=ash310u&theme=github_dark" alt="GitHub Stats"/>
   <!-- <table>
    <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash310u&theme=tokyonight" alt="GitHub Summarry Card"/>
