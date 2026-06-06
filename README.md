@@ -1,21 +1,4 @@
-## Hey there :wave:
-
-# Git Stats 📊
-  
-  <table>
-   <tr>
-      <td>
-          <img 
-            src="https://api-github-readme-stats.vercel.app/api/stats?username=ash310u&theme=github_dark" alt="GitHub Stats"
-            />
-      </td>
-      <td>
-        <img 
-          src="https://api-github-readme-stats.vercel.app/api/stats/chart?username=ash310u&theme=github_dark" alt="GitHub Contribution Stats"
-          />
-      </td>
-     </tr>
-  </table>
+![GitHub Stats](https://api-github-readme-stats.vercel.app/api/stats/custom?username=Ash310u&theme=github_dark&widgets=stats%2Cchart%2Clanguages%2Crepos%2Cactivity)
 ## Get in touch :coffee:
 
 <pre>
