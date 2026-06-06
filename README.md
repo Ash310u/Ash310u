@@ -1,4 +1,4 @@
-![GitHub Stats](https://api-github-readme-stats.vercel.app/api/stats/custom?username=Ash310u&theme=github_dark&widgets=stats%2Cchart%2Clanguages%2Crepos%2Cactivity)
+![github stats](https://custom-readme-github.vercel.app/api/stats/custom?username=Ash310u&theme=github_dark&elements=stars%2Ccommits%2Cprs%2Cissues%2Ccontributed%2Cheatmap%2Cweekly&subtitle=I+created+this+readme+API&badge=https%3A%2F%2Fcustom-readme-github.vercel.app)
 ## Get in touch :coffee:
 
 <pre>
